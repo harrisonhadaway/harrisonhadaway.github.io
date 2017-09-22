@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+    <title type="text" xml:lang="en">Harrison Hadaway</title>
+    <link type="application/atom+xml" rel="self" href="http://localhost:3000/atom.xml"/>
+  
+  <link href="http://localhost:3000/"/>
+  <id>http://localhost:3000/</id>
+  <updated>2017-09-21T23:39:57Z</updated>
+  <author>
+    <name>Harrison Hadaway</name>
+    <email>harrisonleehadaway@gmail.com</email>
+  </author>
+  <rights type="text">Copyright © 2017 Harrison Hadaway. All rights reserved.</rights>
+  
+  <entry>
+  <title type="text">Blog Post</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/post1.html" />
+  <id>http://localhost:3000/post1</id>
+  <published>2017-09-21T00:00:00Z</published>
+  <updated>2017-09-21T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <h1 id="blog-post-1">Blog Post #1</h1>
+
+<h2 id="i-love-blogging">I love blogging</h2>
+
+<p>This is me blogging. I love it so much.</p>
+ ]]></content>
+</entry>
+
+
+
+</feed>
