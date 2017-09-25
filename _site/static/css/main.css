@@ -109,6 +109,7 @@ h1 {
  display: block;
  height: auto;
  max-width: 100%;
+ min-width: 300px;
 }
 .panel-default h4 {
   text-align: left;
