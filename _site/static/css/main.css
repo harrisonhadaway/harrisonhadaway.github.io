@@ -93,7 +93,6 @@ h1 {
 }
 
 
-
 .container {
   width: auto;
   max-width: 800px;
@@ -109,6 +108,7 @@ h1 {
   color: #267723;
 }
 .img-responsive {
+ align-content: center;
  display: block;
  height: auto;
  max-width: 100%;
