@@ -109,7 +109,7 @@ h1 {
 }
 .avatar .img-responsive {
    margin: 0 auto;
-   max-height: 500px;
+   max-height: 450px;
    max-width: auto;
 }
 
@@ -143,11 +143,14 @@ h1 {
   padding-top: 12px;
   word-spacing: 25px;
 }
+
+/*social icons are not centered on mobile site*/
 .social h4 > a {
   color: #000000;
+  margin: auto;
 }
 .avatar {
-  padding-top: 5%;
+  padding-top: 0%;
 }
 .blog-post{
   padding-top: 15px;

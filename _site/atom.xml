@@ -6,7 +6,7 @@
   
   <link href="http://localhost:3000/"/>
   <id>http://localhost:3000/</id>
-  <updated>2017-10-05T23:42:10Z</updated>
+  <updated>2017-10-06T13:14:23Z</updated>
   <author>
     <name>Harrison Hadaway</name>
     <email>harrisonleehadaway@gmail.com</email>
@@ -14,53 +14,54 @@
   <rights type="text">Copyright © 2017 Harrison Hadaway. All rights reserved.</rights>
   
   <entry>
-  <title type="text">Blog Post</title>
-  <link rel="alternate" type="text/html" href="http://localhost:3000/post1.html" />
-  <id>http://localhost:3000/post1</id>
-  <published>2017-09-21T00:00:00Z</published>
-  <updated>2017-09-21T00:00:00Z</updated>
-  <content type="html"><![CDATA[ <h1 id="blog-post-1">Blog Post #1</h1>
+  <title type="text">Object.keys( )</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/project1.html" />
+  <id>http://localhost:3000/project1</id>
+  <published>2017-09-29T00:00:00Z</published>
+  <updated>2017-09-29T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <h1 id="in-class-project1">in class project1</h1>
 
-<h2 id="i-love-blogging">I love blogging</h2>
+<h3 id="prelude"><strong>prelude.</strong></h3>
+<h5 id="an-action-or-event-serving-as-an-introduction-to-something-more-important"><em>an action or event serving as an introduction to something more important.</em></h5>
 
-<p>This is me blogging. I love it so much. jjSome people ask why? 
-	In the past few years, I have been able to live a life of getting to experience many different possible career paths. The life lessons I have learned in that process are worth more than any university class. In the past year, I have worked mostly doing farm/ property management all while waiting for my chance at getting back into a career path to work in information technology.  As my search for the perfect IT job continued I kept coming across these web developer bootcamps online. I started to slowly start looking into bootcamps across the United States, but I was so intimidated to even apply for these crazy intensive and expensive bootcamps.</p>
+<p>I arrived Friday morning to class here at Awesome Inc feeling confident that it was going to be a wonderful Friday of utilizing what we had learned the two previous weeks. I had practiced the day before on doing Heroku deployments using node.js with an express server. Our requirements were sent to us at 8am and we had until 5pm to complete the project. Quickly read through the requirements, fired up my mac, pulled out a notepad, and got thinking through how I was going to lay out this project.</p>
 
-<p>Why Awesome Inc U? 
-	Truthfully, I stumbled upon Awesome Inc U online. Immediately, I realized that Awesome Inc was different compared to a lot of other bootcamps. Awesome Inc was not one of the “pop-up overnight bootcamps” that everyone online was warning people about. Awesome Inc has a very diverse portfolio from doing coding classes for the youth in Lexington year round, the bootcamp, being a entrepreneur incubator, co-sharing office space, and very close ties with an actual software company, APAX Software. While I understand bootcamp’s are a money making business in themselves I was drawn to Awesome Inc for the fact that their bootcamp was not their first and only rodeo when it came to teaching individuals to become developers.</p>
+<h3 id="setup"><strong>setup.</strong></h3>
+<h5 id="the-way-in-which-something-is-organized-planned-or-arranged"><em>the way in which something is organized, planned, or arranged.</em></h5>
 
-<p>Why become a web developer?
-	Since I was a child, I have always had to know how and why anything tangible worked. There is not a better feeling in the world than figuring out how to build to build something, building that something, and being able to step back to see the final something. It took me time to really wrap my mind around that being a developer is not much different than any other technical skill job. Not quite as rigorous on the body, but after my first week of bootcamp it might be just as rigorous on my brain through this bootcamp.</p>
+<p>The server setup was a breeze thanks to my preparation the previous day. I had the basic shell of the project built utilizing bootstrap. I went ahead and setup my git, GitHub repository, and the Heroku set up to be able to deploy the static site. It was almost 9:30 am all I had left off of the requirements list was to manipulate a JSON file using vanilla javascript. At this moment, I was confident and happy with my progress.</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>I want to be a web developer to have a life of building tangible things for businesses and people. I am looking forward to being able to help businesses and people by building the tools they need to be successful.
-</code></pre></div></div>
+<h3 id="javascript"><strong>javascript</strong></h3>
+<h5 id="an-object-oriented-computer-programming-language-commonly-used-to-create-interactive-effects-within-web-browsers"><em>an object-oriented computer programming language commonly used to create interactive effects within web browsers.</em></h5>
 
+<p>I knew ahead of time that the javascript aspect of the project would be my biggest challenge of the day. I started out doing some basic functions to test that I could input into the HTML file from my javascript file. The testing was successful then I moved into de</p>
+
+<h3 id="objectkeys-"><strong>Object.keys( )</strong></h3>
+<h5 id="method-returns-an-array-of-a-given-objects-own-enumerable-properties-in-the-same-order-as-that-provided-by-a-forin-loop"><em>method returns an array of a given object’s own enumerable properties, in the same order as that provided by a for…in loop.</em></h5>
+<p>I knew ahead of time that the javascript aspect of the project would be my biggest challenge of the day. I started out doing some basic functions to test that I could input into the HTML file from my javascript file. The testing was successful so I moved into trying to manipulate the JSON file that was provided with our requirements. The JSON file was much more complex than ….. blah blah blah</p>
  ]]></content>
 </entry>
 
 
   <entry>
   <title type="text">Why bootcamp?</title>
-  <link rel="alternate" type="text/html" href="http://localhost:3000/post2.html" />
-  <id>http://localhost:3000/post2</id>
-  <published>2017-09-20T00:00:00Z</published>
-  <updated>2017-09-20T00:00:00Z</updated>
-  <content type="html"><![CDATA[ <h1 id="why-bootcamp">Why bootcamp?</h1>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/whybootcamp.html" />
+  <id>http://localhost:3000/whybootcamp</id>
+  <published>2017-09-22T00:00:00Z</published>
+  <updated>2017-09-22T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <h1 id="some-people-ask-why">Some people ask why?</h1>
 
-<h2 id="some-people-ask-why">Some people ask why?</h2>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>In the past few years, I have been able to live a life of getting to experience many different possible career paths. The life lessons I have learned in that process are worth more than any university class. In the past year, I have worked mostly doing farm/ property management all while waiting for my chance at getting back into a career path to work in information technology.  As my search for the perfect IT job continued I kept coming across these web developer bootcamps online. I started to slowly start looking into bootcamps across the United States, but I was so intimidated to even apply for these crazy intensive and expensive bootcamps. 
-</code></pre></div></div>
+<p>In the past few years, I have been able to live a life of getting to experience many different possible career paths. The life lessons I have learned in that process are worth more than any university class. In the past year, I have worked mostly doing farm/ property management all while waiting for my chance at getting back into a career path to work in information technology.  As my search for the perfect IT job continued I kept coming across these web developer bootcamps online. I started to slowly start looking into bootcamps across the United States, but I was so intimidated to even apply for these crazy intensive and expensive bootcamps.</p>
 
-<h2 id="why-awesome-inc-u">Why Awesome Inc U?</h2>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Truthfully, I stumbled upon Awesome Inc U online. Immediately, I realized that Awesome Inc was different compared to a lot of other bootcamps. Awesome Inc was not one of the “pop-up overnight bootcamps” that everyone online was warning people about. Awesome Inc has a very diverse portfolio from doing coding classes for the youth in Lexington year round, the bootcamp, being a entrepreneur incubator, co-sharing office space, and very close ties with an actual software company, APAX Software. While I understand bootcamp’s are a money making business in themselves I was drawn to Awesome Inc for the fact that their bootcamp was not their first and only rodeo when it came to teaching individuals to become developers. 
-</code></pre></div></div>
+<h3 id="why-awesome-inc-u">Why Awesome Inc U?</h3>
 
-<h2 id="why-become-a-web-developer">Why become a web developer?</h2>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Since I was a child, I have always had to know how and why anything tangible worked. There is not a better feeling in the world than figuring out how to build to build something, building that something, and being able to step back to see the final something. It took me time to really wrap my mind around that being a developer is not much different than any other technical skill job. Not quite as rigorous on the body, but after my first week of bootcamp it might be just as rigorous on my brain through this bootcamp.
+<p>Truthfully, I stumbled upon Awesome Inc U online. Immediately, I realized that Awesome Inc was different compared to a lot of other bootcamps. Awesome Inc was not one of the “pop-up overnight bootcamps” that everyone online was warning people about. Awesome Inc has a very diverse portfolio from doing coding classes for the youth in Lexington year round, the bootcamp, being an entrepreneur incubator, co-sharing office space, and very close ties with an actual software company, APAX Software. While I understand bootcamp’s are a money making business in themselves I was drawn to Awesome Inc for the fact that their bootcamp was not their first and only rodeo when it came to teaching individuals to become developers.</p>
 
-I want to be a web developer to have a life of building tangible things for businesses and people. I am looking forward to being able to help businesses and people by building the tools they need to be successful.
-</code></pre></div></div>
+<h3 id="why-become-a-web-developer">Why become a web developer?</h3>
 
+<p>Since I was a child, I have always had to know how and why anything tangible worked. There is not a better feeling in the world than figuring out how to build to build something, building that something, and being able to step back to see the final something. It took me time to really wrap my mind around that being a developer is not much different than any other technical skill job. Not quite as rigorous on the body, but after my first week of bootcamp it might be just as rigorous on my brain through this bootcamp.</p>
+
+<p>I want to be a web developer to have a life of building tangible things for businesses and people. I am looking forward to being able to help businesses and people by building the tools they need to be successful.</p>
  ]]></content>
 </entry>
 
