@@ -109,6 +109,8 @@ h1 {
 }
 .avatar .img-responsive {
    margin: 0 auto;
+   max-height: 500px;
+   max-width: auto;
 }
 
 .panel-default h4 {
