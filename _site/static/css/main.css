@@ -143,11 +143,8 @@ h1 {
   padding-top: 12px;
   word-spacing: 25px;
 }
-
-/*social icons are not centered on mobile site*/
 .social h4 > a {
   color: #000000;
-  margin: auto;
 }
 .avatar {
   padding-top: 0%;
