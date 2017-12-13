@@ -6,13 +6,50 @@
   
   <link href="http://localhost:3000/"/>
   <id>http://localhost:3000/</id>
-  <updated>2017-10-07T08:19:32Z</updated>
+  <updated>2017-12-13T12:32:50Z</updated>
   <author>
     <name>Harrison Hadaway</name>
     <email>harrisonleehadaway@gmail.com</email>
   </author>
   <rights type="text">Copyright © 2017 Harrison Hadaway. All rights reserved.</rights>
   
+  <entry>
+  <title type="text">Week 5</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/week5.html" />
+  <id>http://localhost:3000/week5</id>
+  <published>2017-10-20T00:00:00Z</published>
+  <updated>2017-10-20T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <h1 id="week-5--humbling-experience">Week 5 = Humbling Experience</h1>
+
+<h3 id="the-reality-of-learning-new-things">The reality of learning new things.</h3>
+
+<p>Besides being taught and exposed to many wonderful technologies in the past 5 weeks I would have to say that I have actually started to learn more about myself than anything else. Previously to bootcamp, I have always loved challenging technologies typically learning anything before bootcamp on my own. Also previously to bootcamp, I absolutely despised high school and college classes. I knew walking into this bootcamp I would struggle at some point.</p>
+
+<h3 id="overcoming-struggles">Overcoming struggles.</h3>
+
+<p>Part of my troubles previously with classes were me being able to keep my focus. The first two weeks of bootcamp I had a pretty sharp focus. My mind seems to be able to focus on anything brand new for a while then once the new is worn off my mind seems to get bored.</p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Vue.js</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/vuejs.html" />
+  <id>http://localhost:3000/vuejs</id>
+  <published>2017-10-19T00:00:00Z</published>
+  <updated>2017-10-19T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <h1 id="vuejs">Vue.js</h1>
+<h2 id="a-progressive-framework">A progressive framework</h2>
+
+<p>Vue.js is a very young progressive javascript framework. It’s initial realease was in February of 2014 and it is steadily growing in popularity.</p>
+
+<p>This is the first javascript framework I have used and I really like it. Being at the beginning of a new career in Web Development I feel like I will see Vue.js throughout my future career.</p>
+
+<p>Vue offers a component system that is my favorite feauture about Vue. Being able to split multiple components into their on seperate files then the ablility to reference back to those already built components on any part</p>
+ ]]></content>
+</entry>
+
+
   <entry>
   <title type="text">Object.keys( )</title>
   <link rel="alternate" type="text/html" href="http://localhost:3000/project1.html" />
