@@ -16,6 +16,6 @@ Truthfully, I stumbled upon Awesome Inc U online. Immediately, I realized that A
 
 ### Why become a web developer?
 
-Since I was a child, I have always had to know how and why anything tangible worked. There is not a better feeling in the world than figuring out how to build to build something, building that something, and being able to step back to see the final something. It took me time to really wrap my mind around that being a developer is not much different than any other technical skill job. Not quite as rigorous on the body, but after my first week of bootcamp it might be just as rigorous on my brain through this bootcamp.
+Since I was a child, I have always had to know how and why anything tangible worked. There is not a better feeling in the world than figuring out how to build something, building that something, and being able to step back to see the final something. It took me time to really wrap my mind around that being a developer is not much different than any other technical skill job. Not quite as rigorous on the body, but after my first week of bootcamp it might be just as rigorous on my brain through this bootcamp.
 
 I want to be a web developer to have a life of building tangible things for businesses and people. I am looking forward to being able to help businesses and people by building the tools they need to be successful.

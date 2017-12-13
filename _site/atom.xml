@@ -6,7 +6,7 @@
   
   <link href="http://localhost:3000/"/>
   <id>http://localhost:3000/</id>
-  <updated>2017-12-13T12:32:50Z</updated>
+  <updated>2017-12-13T13:53:25Z</updated>
   <author>
     <name>Harrison Hadaway</name>
     <email>harrisonleehadaway@gmail.com</email>
@@ -23,7 +23,7 @@
 
 <h3 id="the-reality-of-learning-new-things">The reality of learning new things.</h3>
 
-<p>Besides being taught and exposed to many wonderful technologies in the past 5 weeks I would have to say that I have actually started to learn more about myself than anything else. Previously to bootcamp, I have always loved challenging technologies typically learning anything before bootcamp on my own. Also previously to bootcamp, I absolutely despised high school and college classes. I knew walking into this bootcamp I would struggle at some point.</p>
+<p>Besides being taught and exposed to many wonderful technologies in the past 5 weeks I would have to say that I have actually started to learn more about myself than anything else. Previous to bootcamp, I have always loved challenging technologies typically learning anything before bootcamp on my own. Also previous to bootcamp, I absolutely despised high school and college classes. I knew walking into this bootcamp I would struggle at some point.</p>
 
 <h3 id="overcoming-struggles">Overcoming struggles.</h3>
 
@@ -43,9 +43,9 @@
 
 <p>Vue.js is a very young progressive javascript framework. It’s initial realease was in February of 2014 and it is steadily growing in popularity.</p>
 
-<p>This is the first javascript framework I have used and I really like it. Being at the beginning of a new career in Web Development I feel like I will see Vue.js throughout my future career.</p>
+<p>This is the first javascript framework I have used, and I really like it. Being at the beginning of a new career in Web Development, I feel like I will see Vue.js throughout my future career.</p>
 
-<p>Vue offers a component system that is my favorite feauture about Vue. Being able to split multiple components into their on seperate files then the ablility to reference back to those already built components on any part</p>
+<p>Vue offers a component system that is my favorite feauture about Vue. Being able to split multiple components into their on seperate files then the ablility to reference back to those already built components on any part of the application makes like much easier.</p>
  ]]></content>
 </entry>
 
@@ -61,7 +61,7 @@
 <h3 id="prelude"><strong>prelude.</strong></h3>
 <h5 id="an-action-or-event-serving-as-an-introduction-to-something-more-important"><em>an action or event serving as an introduction to something more important.</em></h5>
 
-<p>I arrived Friday morning to class here at Awesome Inc feeling confident that it was going to be a wonderful Friday of utilizing what we had learned the two previous weeks. I had practiced the day before on doing Heroku deployments using node.js with an express server. Our requirements were sent to us at 8am and we had until 5pm to complete the project. Quickly read through the requirements, fired up my mac, pulled out a notepad, and got thinking through how I was going to lay out this project.</p>
+<p>I arrived Friday morning to class here at Awesome Inc feeling confident that it was going to be a wonderful Friday of utilizing what we had learned the two previous weeks. I had practiced the day before on doing Heroku deployments using node.js with an express server. Our requirements were sent to us at 8am and we had until 5pm to complete the project. Quickly, I read through the requirements, fired up my mac, pulled out a notepad, and started thinking through how I was going to lay out this project.</p>
 
 <h3 id="setup"><strong>setup.</strong></h3>
 <h5 id="the-way-in-which-something-is-organized-planned-or-arranged"><em>the way in which something is organized, planned, or arranged.</em></h5>
@@ -71,11 +71,11 @@
 <h3 id="javascript"><strong>javascript</strong></h3>
 <h5 id="an-object-oriented-computer-programming-language-commonly-used-to-create-interactive-effects-within-web-browsers"><em>an object-oriented computer programming language commonly used to create interactive effects within web browsers.</em></h5>
 
-<p>I knew ahead of time that the javascript aspect of the project would be my biggest challenge of the day. I started out doing some basic functions to test that I could input into the HTML file from my javascript file. The testing was successful then I moved into de</p>
+<p>I knew ahead of time that the javascript aspect of the project would be my biggest challenge of the day. I started out doing some basic functions to test that I could input into the HTML file from my javascript file. The testing was successful then I moved into manipulating the data provided. I spent the majority of my day attempting to access the information inside of the JSON file. I searched for everything imaginable online trying to find the javascript method to solve this riddle… I was unsuccessful in that moment. I felt so defeated in that moment.</p>
 
 <h3 id="objectkeys-"><strong>Object.keys( )</strong></h3>
 <h5 id="method-returns-an-array-of-a-given-objects-own-enumerable-properties-in-the-same-order-as-that-provided-by-a-forin-loop"><em>method returns an array of a given object’s own enumerable properties, in the same order as that provided by a for…in loop.</em></h5>
-<p>I knew ahead of time that the javascript aspect of the project would be my biggest challenge of the day. I started out doing some basic functions to test that I could input into the HTML file from my javascript file. The testing was successful so I moved into trying to manipulate the JSON file that was provided with our requirements. The JSON file was much more complex than ….. blah blah blah</p>
+<p>If there is one thing I can promise from my 3 month bootcamp, it is that I will never forget the javascript method Object.keys(). Object.keys() was the one missing link I could not find on that project day that left me feeling defeated. I would like to thank Object.keys() for letting me experience that first major feeling of defeat in web development. I learned alot about my self-learning thinking process in that moment of defeat.</p>
  ]]></content>
 </entry>
 
@@ -96,7 +96,7 @@
 
 <h3 id="why-become-a-web-developer">Why become a web developer?</h3>
 
-<p>Since I was a child, I have always had to know how and why anything tangible worked. There is not a better feeling in the world than figuring out how to build to build something, building that something, and being able to step back to see the final something. It took me time to really wrap my mind around that being a developer is not much different than any other technical skill job. Not quite as rigorous on the body, but after my first week of bootcamp it might be just as rigorous on my brain through this bootcamp.</p>
+<p>Since I was a child, I have always had to know how and why anything tangible worked. There is not a better feeling in the world than figuring out how to build something, building that something, and being able to step back to see the final something. It took me time to really wrap my mind around that being a developer is not much different than any other technical skill job. Not quite as rigorous on the body, but after my first week of bootcamp it might be just as rigorous on my brain through this bootcamp.</p>
 
 <p>I want to be a web developer to have a life of building tangible things for businesses and people. I am looking forward to being able to help businesses and people by building the tools they need to be successful.</p>
  ]]></content>
