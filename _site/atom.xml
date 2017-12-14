@@ -6,13 +6,50 @@
   
   <link href="http://localhost:3000/"/>
   <id>http://localhost:3000/</id>
-  <updated>2017-12-13T13:53:25Z</updated>
+  <updated>2017-12-13T23:27:58Z</updated>
   <author>
     <name>Harrison Hadaway</name>
     <email>harrisonleehadaway@gmail.com</email>
   </author>
   <rights type="text">Copyright © 2017 Harrison Hadaway. All rights reserved.</rights>
   
+  <entry>
+  <title type="text">Bootcamp Final Project</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/Equipment-Tracker.html" />
+  <id>http://localhost:3000/Equipment Tracker</id>
+  <published>2017-12-11T00:00:00Z</published>
+  <updated>2017-12-11T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <h1 id="equipment-tracker">Equipment Tracker</h1>
+
+<h3 id="the-need-for-this-project">The need for this project</h3>
+<p>My former employer owned many pieces of farm equipment and had a collection of other various vehicles. We never could perfect a system for keeping up with all of the equipment and records. Equipment Tracker is the solution for my former employer.</p>
+
+<h3 id="user-stories">User Stories</h3>
+<ol>
+  <li>As an equipment owner, I want to store general information on my equipment in a central database, where I can access necessary information without having to continually get it off of the machine.</li>
+  <li>As the equipment owner, I want to be able to add maintenance records to the equipment in my database so that I can assure that my equipment is getting proper care.</li>
+  <li>As the equipment owner, I would like to be able to store all digital manuals that relate to a specific piece of equipment with the equipment on my database.</li>
+</ol>
+
+<h3 id="logged-in-users-can">Logged in users can:</h3>
+<ol>
+  <li>Register new equipment</li>
+  <li>Add maintenance records</li>
+  <li>Store user and maintenance manuals</li>
+  <li>Update all fields of the equipment profile, and individual maintenance records</li>
+</ol>
+
+<h3 id="live-demo">Live Demo</h3>
+<p>You are welcome to do a live demo of this project. Authentication is required, but for demo purposes I will provide link, username, and password below.</p>
+
+<p>User: harrisonleehadaway@gmail.com <br />
+Pass: 123456 <br />
+<a href="http://www.equipment-tracker.net" title="Equipment Tracker">Check-out the progress of Equipment Tracker here.</a></p>
+
+ ]]></content>
+</entry>
+
+
   <entry>
   <title type="text">Week 5</title>
   <link rel="alternate" type="text/html" href="http://localhost:3000/week5.html" />
